@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "795023191201",
+    "project_id": "grocery-buddy-31112",
+    "storage_bucket": "grocery-buddy-31112.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795023191201:android:61a596187c6b55fca214e0",
+        "android_client_info": {
+          "package_name": "com.example.grocery_buddy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxjcvw4yOEO0LLN7T9R975zOLaHxyZa4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
